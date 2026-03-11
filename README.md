@@ -3,7 +3,7 @@
 
 This repository contains my solutions to Data Structures and Algorithms problems from platforms such as LeetCode and HackerRank.
 
-The goal of this repository is to improve my problem-solving skills, strengthen my understanding of algorithms, and prepare for technical interviews.
+The goal of this repository is to improve my problem-solving skills, strengthen my understanding of algorithms.
 
 ## Languages
 - Java
